@@ -1,9 +1,10 @@
 ---
-title : "Case 002: The Hidden Cyber Threat of Anonymous Platforms and Bots"
-description : "In this case study, we explore **how anonymous platforms and automated systems can be misused for cybercrime**, and why awareness is the strongest defense.
-
-tags : ["random"  , 'chat' , "site", "cybersecurity", "vyomaSecurity"]
+title: "Case 002: The Hidden Cyber Threat of Anonymous Platforms and Bots"
+description: "In this case study, we explore how anonymous platforms and automated systems can be misused for cybercrime, and why awareness is the strongest defense."
+pubDate: 2025-01-01
+tags: ["cybersecurity", "online-safety", "anonymous-platforms", "bots", "vyomaSecurity"]
 ---
+
 # Case 002: The Hidden Cyber Threat of Anonymous Platforms and Bots
 
 ## Introduction
@@ -54,7 +55,7 @@ Certain bots:
 
 This can create **false trust**, especially among young or inexperienced users.
 
-Important note:
+> **Important note:**  
 > Bots themselves are tools.  
 > Risk arises when they are used for deception.
 
@@ -116,6 +117,7 @@ Awareness is more effective than confrontation.
 The biggest cyber threat today is not one website, bot, or person.
 
 It is:
+
 > **Anonymous trust without verification**
 
 Understanding this helps protect individuals, families, and communities.
