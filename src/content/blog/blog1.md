@@ -155,3 +155,5 @@ By learning to recognize **patterns instead of personalities**, we can protect o
 And always remember:
 
 > **Real investments don’t need urgency or secrecy.**
+*** PUblished by VSAP ***
+*** Written by Prasoon jadon *** 
